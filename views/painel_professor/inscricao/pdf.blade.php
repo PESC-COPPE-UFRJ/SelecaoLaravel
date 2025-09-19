@@ -153,6 +153,14 @@
             <span class="label">Certificado Militar</span>
             {{ $candidato->certmilitar }}
         </div>
+        <div class="row">
+            <span class="label">Telefone</span>
+            {{ $candidato->telefone }}
+        </div>
+        <div class="row">
+            <span class="label">Celular</span>
+            {{ $candidato->celular }}
+        </div>
 
     </div>    
 
