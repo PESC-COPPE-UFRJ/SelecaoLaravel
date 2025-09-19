@@ -1,0 +1,1 @@
+C:\wamp\www\ufrj\app/views/parametros/index.blade.php
