@@ -222,6 +222,3 @@ Route::controller('professor', 'ProfessorController');
 
 *(Este comportamento é específico do roteamento implícito do Laravel 4 e não é recomendado em versões recentes, mas **faz parte do legado** que estamos documentando.)*
 
----
-
-Se quiser, posso **gerar esta mesma análise já formatada em um arquivo `.md`** pronto para distribuição — é só dizer o nome do arquivo de saída desejado.
