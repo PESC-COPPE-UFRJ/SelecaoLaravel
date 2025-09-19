@@ -149,6 +149,14 @@
                                 <td>Certificado Militar</td>
                                 <td>{{ $candidato->certmilitar }}</td>
                             </tr>
+                            <tr>
+                                <td>Telefone</td>
+                                <td>{{ $candidato->telefone }}</td>
+                            </tr>
+                            <tr>
+                                <td>Celular</td>
+                                <td>{{ $candidato->celular }}</td>
+                            </tr>
                         </tbody>
                     </table>
                     @endif @if(isset($poscomps) && $poscomps->count() > 0) {? $contadorPoscomp = 0; ?}
